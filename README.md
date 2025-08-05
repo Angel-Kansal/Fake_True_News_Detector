@@ -12,7 +12,7 @@ It was built using:
 
 ## 🚀 Live Demo
 
-👉 [Click here to try it on Streamlit (if deployed)](https://your-streamlit-app-link)
+👉 [Click here to try it on Streamlit (if deployed)](https://faketruenewsdetector-w2mrzp7zfzyvacruhahrep.streamlit.app/)
 
 ---
 
